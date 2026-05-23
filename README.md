@@ -44,7 +44,8 @@ El dashboard proporciona una visión ejecutiva del rendimiento hotelero, permiti
 - Volumen de reservas  
 - Comparativa entre segmentos o tipologías  
 
-📌 *Captura del dashboard disponible en este repositorio.*
+<img width="1551" height="1078" alt="image" src="https://github.com/user-attachments/assets/f24cda4c-b603-4569-8fbf-80a797d1e79d" />
+
 
 ---
 
